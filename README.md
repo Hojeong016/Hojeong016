@@ -1,8 +1,5 @@
 
- 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=🌱Welcome%20hojeong%20GitHub🌱&fontSize=30&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-</p>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=20&text=🌱Welcome%20hojeong%20GitHub🌱&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 
