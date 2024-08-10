@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hojeong016&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hojeong016&theme=nord)
+<img src='profile-gitblock.svg' width='500px' align="right">
 
 
 <!--
