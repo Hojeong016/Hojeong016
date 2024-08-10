@@ -1,6 +1,9 @@
+
+ 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=100&animation=fadeIn&fontAlignY=38&fontAlign=50&color=white&desc=🌱Welcome%20hojeong%20GitHub🌱%20&descAlignY=51&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🌱Welcome%20hojeong%20GitHub🌱&fontSize=30&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
+
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojeong016&&exclude_repo=Hojeong016.githu.io&layout=compact&theme=tokyonight" />
