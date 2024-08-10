@@ -1,8 +1,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=20&text=🌱Welcome%20hojeong%20GitHub🌱&fontAlign=80&fontAlignY=40&color=gradient)
-
-
-
+                   
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojeong016&&exclude_repo=Hojeong016.githu.io&layout=compact&theme=tokyonight" />
 </a>
@@ -13,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hojeong016&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hojeong016&theme=nord)
 
 
 <!--
