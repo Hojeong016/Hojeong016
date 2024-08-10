@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=100&animation=fadeIn&fontAlignY=38&desc=🌱Welcome%20hojeong%20GitHub🌱%20&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=100&animation=fadeIn&fontAlignY=38&fontAlign=50&color=white&desc=🌱Welcome%20hojeong%20GitHub🌱%20&descAlignY=51&descAlign=50"/>
 </p>
 
 <a href="s">
