@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hojeong016&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <!--
