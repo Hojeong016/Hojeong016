@@ -41,6 +41,10 @@
 
 ### Studying 📖
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Hojeong016}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--![](./profile-3d-contrib/profile-green-animate.svg)
 
 
