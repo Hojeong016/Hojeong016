@@ -5,6 +5,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hojeong016&&exclude_repo=Hojeong016.githu.io&layout=compact&theme=tokyonight" align="right">
 </a>
 
+ <div>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hojeong016&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Hojeong016"
+  width="300"
+  height="200"
+/>
+</a>
+ </div>
+
 ### Skills ⚒️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <strong>Backend</strong>
@@ -35,15 +45,13 @@
         <img src="https://img.shields.io/badge/css-1572`B6?style=flat-square&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
     </div>
+
 </div>
 
 
 
 ### Studying 📖
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Hojeong016}?pet-id=1" width="1000" height="120"/>
-</a>
 
 <!--![](./profile-3d-contrib/profile-green-animate.svg)
 
